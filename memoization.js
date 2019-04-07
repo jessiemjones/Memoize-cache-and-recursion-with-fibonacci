@@ -1,5 +1,4 @@
-// Standard recursive fucntion.  Very slow.  Big O notation is exponential.  Very inefficient.  Same calcuations get called multiple times.
-
+//Recursive
 function fibonacci(n){
     if (n === 0){
         return 0
